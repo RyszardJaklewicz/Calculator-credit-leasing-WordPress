@@ -1,0 +1,10 @@
+or push an existing repository from the command line
+
+git remote add origin https://github.com/RyszardJaklewicz/Calculator-credit-leasing-WordPress-CLS.git
+
+
+git add .
+
+
+git branch -M main
+git push -u origin main
